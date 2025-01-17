@@ -925,7 +925,7 @@
     semver "^7.3.5"
     tar "^6.1.11"
 
-"@microsoft/tsdoc@^0.15.0":
+"@microsoft/tsdoc@0.15.0":
   version "0.15.0"
   resolved "https://registry.yarnpkg.com/@microsoft/tsdoc/-/tsdoc-0.15.0.tgz#f29a55df17cb6e87cfbabce33ff6a14a9f85076d"
   integrity sha512-HZpPoABogPvjeJOdzCOSJsXeL/SMCBgBZMVC3X3d7YYp2gf31MfxhUoYUNwf1ERPJOnQc0wkFn9trqI6ZEdZuA==
@@ -994,10 +994,10 @@
     "@types/jsonwebtoken" "9.0.7"
     jsonwebtoken "9.0.2"
 
-"@nestjs/mapped-types@2.0.6":
-  version "2.0.6"
-  resolved "https://registry.yarnpkg.com/@nestjs/mapped-types/-/mapped-types-2.0.6.tgz#d2d8523709fd5d872a9b9e0c38162746e2a7f44e"
-  integrity sha512-84ze+CPfp1OWdpRi1/lOu59hOhTz38eVzJvRKrg9ykRFwDz+XleKfMsG0gUqNZYFa6v53XYzeD+xItt8uDW7NQ==
+"@nestjs/mapped-types@2.1.0":
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/@nestjs/mapped-types/-/mapped-types-2.1.0.tgz#b9b536b7c3571567aa1d0223db8baa1a51505a19"
+  integrity sha512-W+n+rM69XsFdwORF11UqJahn4J3xi4g/ZEOlJNL6KoW5ygWSmBB2p0S2BZ4FQeS/NDH72e6xIcu35SfJnE8bXw==
 
 "@nestjs/passport@10.0.0":
   version "10.0.0"
@@ -1026,16 +1026,16 @@
     jsonc-parser "3.2.0"
     pluralize "8.0.0"
 
-"@nestjs/swagger@11.0.0":
-  version "11.0.0"
-  resolved "https://registry.yarnpkg.com/@nestjs/swagger/-/swagger-11.0.0.tgz#9ed16107afca22b585c0aacd021126e83016ce98"
-  integrity sha512-sk2Mmf/hr75VM+HcHS62a/rGR+GX8g37VLK6Lr2dXM6r3pKJO1g++wOf2d1OOBBz3edDedgpK4A6mMp9ZC/j7Q==
+"@nestjs/swagger@11.0.1":
+  version "11.0.1"
+  resolved "https://registry.yarnpkg.com/@nestjs/swagger/-/swagger-11.0.1.tgz#0eecd13c6891ecb81a1dbcca4c4502ecca43cd2a"
+  integrity sha512-+Sp8STopS2ldxUi5TEhyiTh0I3ShA022C6rf1mT1D0aXd4BwY5XHsf21U653+2jjHosagrWPYXk/2yxYfTjatw==
   dependencies:
-    "@microsoft/tsdoc" "^0.15.0"
-    "@nestjs/mapped-types" "2.0.6"
+    "@microsoft/tsdoc" "0.15.0"
+    "@nestjs/mapped-types" "2.1.0"
     js-yaml "4.1.0"
     lodash "4.17.21"
-    path-to-regexp "^8.2.0"
+    path-to-regexp "8.2.0"
     swagger-ui-dist "5.18.2"
 
 "@nestjs/testing@10.0.0":
@@ -5035,7 +5035,7 @@ path-to-regexp@3.2.0:
   resolved "https://registry.yarnpkg.com/path-to-regexp/-/path-to-regexp-3.2.0.tgz#fa7877ecbc495c601907562222453c43cc204a5f"
   integrity sha512-jczvQbCUS7XmS7o+y1aEO9OBVFeZBQ1MDSEqmO7xSoPgOPoowY/SxLpZ6Vh97/8qHZOteiCKb7gkG9gA2ZUxJA==
 
-path-to-regexp@^8.2.0:
+path-to-regexp@8.2.0:
   version "8.2.0"
   resolved "https://registry.yarnpkg.com/path-to-regexp/-/path-to-regexp-8.2.0.tgz#73990cc29e57a3ff2a0d914095156df5db79e8b4"
   integrity sha512-TdrF7fW9Rphjq4RjrW0Kp2AW0Ahwu9sRGTkS6bvDi0SCwZlEZYmcfDbEsTz8RVk0EHIS/Vd1bv3JhG+1xZuAyQ==
