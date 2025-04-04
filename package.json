@@ -52,7 +52,7 @@
     "@types/express": "5.0.1",
     "@types/jest": "29.5.14",
     "@types/node": "22.14.0",
-    "@types/nodemon": "1.19.6",
+    "@types/nodemon": "3.1.1",
     "@types/passport-jwt": "4.0.1",
     "@types/supertest": "6.0.3",
     "@typescript-eslint/eslint-plugin": "8.0.0",
