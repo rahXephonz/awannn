@@ -1347,12 +1347,12 @@
   dependencies:
     undici-types "~6.21.0"
 
-"@types/nodemon@1.19.6":
-  version "1.19.6"
-  resolved "https://registry.yarnpkg.com/@types/nodemon/-/nodemon-1.19.6.tgz#1c14bac51dfd3d354e2b5046949f925a742412c4"
-  integrity sha512-vjKuaQOLUA5EY2zkUmWG1ipXbKt9Wd+H/0SiIuHVeH4cHtt6509iRUGH9ZR0iqgUrtj3BrP9KqoTuV3ZCbQcYA==
+"@types/nodemon@3.1.1":
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/@types/nodemon/-/nodemon-3.1.1.tgz#517aaa5f9b1370c2fcf3f7925bccf0d8163b34db"
+  integrity sha512-q29nOOLwcTTPzp6VABHTybbLYdPF5aW6FZARvax8JGhYdQvLtZXX3z2MPP1KkaBDxVsNp7ehl2OSuTbIpsTihg==
   dependencies:
-    "@types/node" "*"
+    nodemon "*"
 
 "@types/passport-jwt@4.0.1":
   version "4.0.1"
@@ -4888,7 +4888,7 @@ node-releases@^2.0.2:
   resolved "https://registry.yarnpkg.com/node-releases/-/node-releases-2.0.2.tgz#7139fe71e2f4f11b47d4d2986aaf8c48699e0c01"
   integrity sha512-XxYDdcQ6eKqp/YjI+tb2C5WM2LgjnZrfYg4vgQt49EK268b6gYCHsBLrK2qvJo4FmCtqmKezb0WZFK4fkrZNsg==
 
-nodemon@3.1.9:
+nodemon@*, nodemon@3.1.9:
   version "3.1.9"
   resolved "https://registry.yarnpkg.com/nodemon/-/nodemon-3.1.9.tgz#df502cdc3b120e1c3c0c6e4152349019efa7387b"
   integrity sha512-hdr1oIb2p6ZSxu3PB2JWWYS7ZQ0qvaZsc3hK8DR8f02kRzc8rjYmxAIvdz+aYC+8F2IjNaB7HMcSDg8nQpJxyg==
