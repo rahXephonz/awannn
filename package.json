@@ -50,7 +50,7 @@
     "@nestjs/testing": "10.0.0",
     "@types/bcrypt": "6.0.0",
     "@types/express": "5.0.6",
-    "@types/jest": "29.5.14",
+    "@types/jest": "30.0.0",
     "@types/node": "24.10.13",
     "@types/nodemon": "3.1.1",
     "@types/passport-jwt": "4.0.1",
